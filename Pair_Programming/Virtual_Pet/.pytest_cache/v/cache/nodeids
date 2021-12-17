@@ -1,0 +1,8 @@
+[
+  "virtual_pet_test.py::virtual_pet_test::test_feed",
+  "virtual_pet_test.py::virtual_pet_test::test_get_fullness",
+  "virtual_pet_test.py::virtual_pet_test::test_get_hungriness",
+  "virtual_pet_test.py::virtual_pet_test::test_play",
+  "virtual_pet_test.py::virtual_pet_test::test_poop",
+  "virtual_pet_test.py::virtual_pet_test::test_sleep"
+]

@@ -1,0 +1,8 @@
+{
+  "virtual_pet_test.py::virtual_pet_test::test_feed": true,
+  "virtual_pet_test.py::virtual_pet_test::test_get_fullness": true,
+  "virtual_pet_test.py::virtual_pet_test::test_get_hungriness": true,
+  "virtual_pet_test.py::virtual_pet_test::test_play": true,
+  "virtual_pet_test.py::virtual_pet_test::test_poop": true,
+  "virtual_pet_test.py::virtual_pet_test::test_sleep": true
+}
